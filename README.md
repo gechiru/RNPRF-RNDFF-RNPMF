@@ -7,7 +7,7 @@ Because Github limits the files over 25M, the full version data and code can be 
 
 If you find this code useful for your research, consider citing:
 
-[1] Chiru Ge, Qian Du, Weiwei Sun, Keyan Wang, Jiaojiao Li, and Yunsong Li. Hyperspectral and LiDAR Data Fusion Classiﬁcation Using Residual Network-based Deep Feature Fusion and Probability Fusion, IEEE Transactions on Geoscience and Remote Sensing, September 2019.
+[1] Chiru Ge, Qian Du, Weiwei Sun, Keyan Wang, Jiaojiao Li, and Yunsong Li. "Deep Residual Network-based Fusion Framework for Hyperspectral and LiDAR Data," IEEE Transactions on Geoscience and Remote Sensing, September 2019.
 
 [2] Z. Zhong, J. Li, Z. Luo, and M. Chapman, "Spectral–Spatial Residual Network for Hyperspectral Image Classification: A 3-D Deep Learning Framework," IEEE Transactions on Geoscience and Remote Sensing, vol. 56, no. 2, pp. 847-858, 2018.
 
