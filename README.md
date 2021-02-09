@@ -2,12 +2,9 @@
 
 The purpose of the shared code is to promote communication. Our proposed methods can be used as comparison methods for hyperspectral and LiDAR fusion classification.
 
-Because Github limits the files over 25M, the full version data and code can be download in Google drive [download link](https://drive.google.com/file/d/1Sh5o7C-m5iY3_jmZvX3njODRFqiMuwEg/view?usp=sharing) or Baidu cloud [download link](https://pan.baidu.com/s/1E7eQAi4FsVRg3wCKXNxPWw). 
-
-
 If you find this code useful for your research, consider citing:
 
-[1] Chiru Ge, Qian Du, Weiwei Sun, Keyan Wang, Jiaojiao Li, and Yunsong Li. "Deep Residual Network-based Fusion Framework for Hyperspectral and LiDAR Data," IEEE Transactions on Geoscience and Remote Sensing, September 2019.
+[1] Chiru Ge, Qian Du, Weiwei Sun, Keyan Wang, Jiaojiao Li, and Yunsong Li. "Deep Residual Network-based Fusion Framework for Hyperspectral and LiDAR Data," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, January 2021.
 
 [2] Z. Zhong, J. Li, Z. Luo, and M. Chapman, "Spectral–Spatial Residual Network for Hyperspectral Image Classification: A 3-D Deep Learning Framework," IEEE Transactions on Geoscience and Remote Sensing, vol. 56, no. 2, pp. 847-858, 2018.
 
